@@ -18,6 +18,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
+### Versions
+
+```
+ Truffle : 5.1.33
+ Node : v14.16.0
+ NPM : 6.14.11
+ Sol : ^0.5.0
+ @truffle/hdwallet-provider: ^1.0.37,
+
+```
+
 ### Installing
 
 ```
@@ -64,19 +75,19 @@ truffle migrate --reset --network rinkeby
 
 ### Activity Diagram
 
-![Activity Diagram]
+![Activity Diagram](https://github.com/maheshbhattaraai/dapp-supplychain/blob/main/Images/CoffeeActivity.png)
 
 ### Sequence Diagram
 
-![Sequence Diagram]
+![Sequence Diagram](https://github.com/maheshbhattaraai/dapp-supplychain/blob/main/Images/CoffeeSequence.png)
 
 ### State Diagram
 
-![State Diagram]
+![State Diagram](https://github.com/maheshbhattaraai/dapp-supplychain/blob/main/Images/CoffeeState.png)
 
 ### Class Diagram
 
-![Class Diagram]
+![Class Diagram](https://github.com/maheshbhattaraai/dapp-supplychain/blob/main/Images/CoffeeClassDiagram.png)
 
 ## Built With
 
